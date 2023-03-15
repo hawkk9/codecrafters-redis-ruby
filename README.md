@@ -1,4 +1,4 @@
-![progress-banner](https://codecrafters.io/landing/images/default_progress_banners/redis.png)
+[![progress-banner](https://app.codecrafters.io/progress/redis/0c0aa5e5-d17c-4332-9a10-a9ab529c873a)](https://app.codecrafters.io/users/hawkk9)
 
 This is a starting point for Ruby solutions to the
 ["Build Your Own Redis" Challenge](https://codecrafters.io/challenges/redis).
